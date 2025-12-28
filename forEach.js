@@ -5,6 +5,9 @@ const produced = [
   { id: 4, name: "iphone", model: "iphone13", color: "gold", price: 1000 },
   { id: 5, name: "xiaomi", model: "xiaomi not 8", color: "blue", price: 100 },
 ];
+
+// don't return any property value
+
 produced.forEach((product) => {
   if (product.color === "gold") {
     // console.log(product);

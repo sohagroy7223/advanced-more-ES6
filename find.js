@@ -6,6 +6,8 @@ const allModel = [
   { id: 5, name: "xiaomi", model: "xiaomi not 8", color: "blue", price: 100 },
 ];
 
+// return single array ******
+
 const presell = allModel.find((p) => p.id === 4);
 // console.log(presell);
 

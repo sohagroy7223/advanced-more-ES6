@@ -6,6 +6,11 @@ const products = [
   { id: 5, name: "xiaomi", model: "xiaomi not 8", color: "blue", price: 100 },
 ];
 
+// return the value and create new array
+
+const newArray = products.filter((p) => p.id !== 4);
+console.log(newArray);
+
 const sameColor = products.filter((product) => {
   if (product.color === "blue") {
     return product;

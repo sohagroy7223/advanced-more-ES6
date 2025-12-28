@@ -25,3 +25,12 @@ const allNumbers = [12, 34, 56, 78, 345, 23];
 
 const bigNumber = allNumbers.map((num) => num + 2);
 // console.log(bigNumber);
+
+// syntax
+// if single line******
+// variableName.map(element, index)=>
+
+// if multiple line******
+// variableName.map(element, index)=>{
+//   return must
+// }
