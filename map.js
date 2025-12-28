@@ -17,11 +17,11 @@ const friends = ["sogor", "sumon", "maha", "suvo", "modu"];
 const newFriends = friends.map((element, index) => {
   // console.log(index);
   // console.log(element);
-  return element;
+  // return element;
 });
-console.log(newFriends);
+// console.log(newFriends);
 
 const allNumbers = [12, 34, 56, 78, 345, 23];
 
 const bigNumber = allNumbers.map((num) => num + 2);
-console.log(bigNumber);
+// console.log(bigNumber);

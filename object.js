@@ -27,4 +27,4 @@ const person = {
 // console.log(person[1]);---> it is working
 
 // don't give an error. give it undefine*****
-console.log(person.brother?.age);
+// console.log(person.brother?.age);
