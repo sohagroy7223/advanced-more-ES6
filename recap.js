@@ -13,7 +13,7 @@ const colorBlue = allDevice.filter((p) => {
     return p;
   }
 });
-console.log(colorBlue);
+// console.log(colorBlue);
 
 // find function ************
 
