@@ -27,14 +27,14 @@ class clothing {
     this.color = color;
   }
   details() {
-    console.log(`this ${this.brand} full details`);
+    // console.log(`this ${this.brand} full details`);
   }
 }
 
 const pant = new clothing("calvin", 800, "naviblue");
 pant.details();
-console.log(pant);
+// console.log(pant);
 
 const hodi = new clothing("Hodi", 1200, "sky-blue");
 hodi.details();
-console.log(hodi);
+// console.log(hodi);
