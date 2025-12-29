@@ -9,7 +9,7 @@ const products = [
 // return the value and create new array
 
 const newArray = products.filter((p) => p.id !== 4);
-console.log(newArray);
+// console.log(newArray);
 
 const sameColor = products.filter((product) => {
   if (product.color === "blue") {

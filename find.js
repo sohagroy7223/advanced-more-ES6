@@ -12,4 +12,4 @@ const presell = allModel.find((p) => p.id === 4);
 // console.log(presell);
 
 const thirdModel = allModel.find((s) => s.id === 3);
-console.log(thirdModel);
+// console.log(thirdModel);
