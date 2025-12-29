@@ -26,4 +26,4 @@ const greenLine = new vehicle("lembor", 1000000);
 // console.log(greenLine);
 
 const tata = new trackTor("tata", 340000, "full");
-console.log(tata);
+// console.log(tata);
