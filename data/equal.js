@@ -41,7 +41,7 @@ if (p1 === p2) {
 const x1 = [];
 const x2 = x1;
 if (x1 === x2) {
-  console.log("there are same");
+  // console.log("there are same");
 } else {
-  console.log("problem");
+  // console.log("problem");
 }
