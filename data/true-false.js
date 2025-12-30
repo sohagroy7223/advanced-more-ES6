@@ -1,9 +1,9 @@
 const call = undefined;
 
 if (call) {
-  console.log("this is truthy value");
+  // console.log("this is truthy value");
 } else {
-  console.log("this is falsy value");
+  // console.log("this is falsy value");
 }
 // const call = " "; //true
 // const call = ""; //false
