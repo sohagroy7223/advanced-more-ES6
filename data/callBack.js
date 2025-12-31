@@ -1,19 +1,19 @@
-function Anames(myName) {
-  myName();
-}
+// function Anames(myName) {
+//   myName();
+// }
 
-let getname = function nms() {
-  alert("alert by sohag roy");
-};
+// let getname = function nms() {
+//   alert("alert by sohag roy");
+// };
 
-Anames(getname);
+// Anames(getname);
 
-function gotok(name) {
-  name();
-}
+// function gotok(name) {
+//   name();
+// }
 
-let pattris = function pattri() {
-  console.log("may paice");
-};
+// let pattris = function pattri() {
+//   console.log("may paice");
+// };
 
-gotok(pattris);
+// gotok(pattris);
