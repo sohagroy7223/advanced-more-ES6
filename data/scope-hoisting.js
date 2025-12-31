@@ -20,9 +20,9 @@
 // simple example
 // if your variable is var
 
-console.log(price); // if variable is var --> undefined
+// console.log(price); // if variable is var --> undefined
 
 // const price = 100; // if variable is const -> ReferenceError: Cannot access 'price' before initialization
 var price = 100;
 
-console.log(price); // so, price=100
+// console.log(price); // so, price=100
