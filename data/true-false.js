@@ -17,3 +17,8 @@ if (call) {
 // const call = function () {};// true
 // const call = null;// false
 // const call = undefined;// false
+
+function work(x, y = 4) {
+  return x + y;
+}
+console.log(work(32));
